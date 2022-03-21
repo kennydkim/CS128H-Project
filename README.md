@@ -9,7 +9,7 @@ Kenny Kim (kk67)
 Justin Kim (jwk8)
 
 # Project Introduction
-A variation on the classic Dinosaur Game (Chrome Dino) that pops up on your browser when there is no internet connection. Instead of a boring old dinosaur, you will be playing as the Ferris the Rustacean Crab to survive as long as possible against one other competitor in a online multiplayer server fully developed in Rust. 
+A variation on the classic Dinosaur Game (Chrome Dino) that pops up on your browser when there is no internet connection. Instead of a boring old dinosaur, you will be playing as Ferris the Rustacean Crab to survive as long as possible against one other competitor in a online multiplayer server fully developed in Rust. 
 
 # System Overview
 - Client
