@@ -1,0 +1,10 @@
+/Users/kennykim/Desktop/CS128H-Project/game/target/wasm32-unknown-unknown/debug/deps/owned_ttf_parser-2b4e2e9498a11404.rmeta: /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/lib.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/convert.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/owned.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/preparse.rs
+
+/Users/kennykim/Desktop/CS128H-Project/game/target/wasm32-unknown-unknown/debug/deps/libowned_ttf_parser-2b4e2e9498a11404.rlib: /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/lib.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/convert.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/owned.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/preparse.rs
+
+/Users/kennykim/Desktop/CS128H-Project/game/target/wasm32-unknown-unknown/debug/deps/owned_ttf_parser-2b4e2e9498a11404.d: /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/lib.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/convert.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/owned.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/preparse.rs
+
+/Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/lib.rs:
+/Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/convert.rs:
+/Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/owned.rs:
+/Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/owned_ttf_parser-0.15.0/src/preparse.rs:

@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/kennykim/Desktop/CS128H-Project/game/target/wasm32-unknown-unknown/debug/build/typenum-1561a5a11b499c0e/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/kennykim/Desktop/CS128H-Project/game/target/wasm32-unknown-unknown/debug/build/typenum-1561a5a11b499c0e/out/op.rs

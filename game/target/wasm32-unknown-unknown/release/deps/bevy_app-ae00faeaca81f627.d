@@ -1,0 +1,11 @@
+/Users/kennykim/Desktop/CS128H-Project/game/target/wasm32-unknown-unknown/release/deps/bevy_app-ae00faeaca81f627.rmeta: /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/lib.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/app.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/plugin.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/plugin_group.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/schedule_runner.rs
+
+/Users/kennykim/Desktop/CS128H-Project/game/target/wasm32-unknown-unknown/release/deps/libbevy_app-ae00faeaca81f627.rlib: /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/lib.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/app.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/plugin.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/plugin_group.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/schedule_runner.rs
+
+/Users/kennykim/Desktop/CS128H-Project/game/target/wasm32-unknown-unknown/release/deps/bevy_app-ae00faeaca81f627.d: /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/lib.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/app.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/plugin.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/plugin_group.rs /Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/schedule_runner.rs
+
+/Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/lib.rs:
+/Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/app.rs:
+/Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/plugin.rs:
+/Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/plugin_group.rs:
+/Users/kennykim/.cargo/registry/src/github.com-1ecc6299db9ec823/bevy_app-0.6.0/src/schedule_runner.rs:
