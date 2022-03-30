@@ -1,0 +1,1 @@
+/Users/kennykim/Desktop/CS128H-Project/game/target/wasm32-unknown-unknown/release/game.wasm: /Users/kennykim/Desktop/CS128H-Project/game/src/camera.rs /Users/kennykim/Desktop/CS128H-Project/game/src/main.rs

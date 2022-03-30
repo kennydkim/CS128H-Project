@@ -8,3 +8,5 @@ edition = "2021"
 [dependencies]
 bevy = "0.6.1"
 bevy_rapier2d = "*"
+ggrs = "0.8"
+bevy_ggrs = "0.1.3"

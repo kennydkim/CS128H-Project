@@ -7,6 +7,10 @@ const OCEAN_BLUE: Color = Color::rgb(0.0, 0.4118, 0.5804);
 // const SKY_BLUE: Color = Color::rgb(0.6431, 0.8588, 0.9098);
 const SAND: Color = Color::rgb(0.761, 0.698, 0.502);
 
+// for live updating run use: cargo watch -cx "run --release"
+// for the web server use: cargo run --release --target wasm32-unknown-unknown
+
+
 pub fn main() {
     App::new()
         .add_startup_stage("player_setup", SystemStage::single(spawn_player))
